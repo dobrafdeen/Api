@@ -1,7 +1,7 @@
 <?php
 
 // إعدادات البوت
-define('BOT_TOKEN', '7465262401:AAGN-vBzFsBSWe8vqy_YNlrvVfHNa7vPkHM');
+define('BOT_TOKEN', '8099690773:AAGP-yu9PjMbfTmRRRPj_nrZ6daPPdeKwRg');
 define('ADMIN_ID', 6873334348);
 define('CHANNEL_ID', '-1002530096487');
 define('JSON_FILE', __DIR__ . '/subscribers.json');
