@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "telegraf": "^4.16.2"
+  }
+}
